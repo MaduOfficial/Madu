@@ -1,4 +1,5 @@
 HI
+me chamo Maria Eduarda, tenho 14 anos e estou aprendendo programação, a linguagem de programação que estou aprendendo é o java, espero aprender muito mais, ah e pelas redes sociais prefiro ser chamada de Madu.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Madu-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
